@@ -1,6 +1,8 @@
 # 🚀 Full-Stack AI Lead Automation System
 ### End-to-End Sales Outreach • AI Agents • Auto Meeting Booking • Instantly + Calendly + RAG
 
+![Hero Banner](./images/thumnail.png)
+
 This project is a fully automated **AI Lead Automation System** built for a client company, designed to streamline and automate outbound sales workflows from start to finish.  
 It takes bulk leads → enriches them → generates personalized emails → handles replies with an AI agent → and automatically books meetings via Calendly.
 
@@ -282,7 +284,28 @@ email-automation-ai/
 
 ---
 
-# 📊 Screenshots (Add your images)
+# 🖼️ Screenshots
+
+## 📊 Dashboard
+![Dashboard](./images/Dashboard.png)
+## 📁 Leads Page
+![Lead Management](./images/leads-management.png)
+![Lead Management](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/lead-details-view.png)
+## 🧩 Prompts Management
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/prompt-management.png)
+## 🎯 Campaigns Page
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-management.png)
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-control-page.png)
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-prompt-control-tab.png)
+## 🤖 Agent Playground
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-test-page.png)
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-graph.png)
+
+## 🔑 API Configuration
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/api-key-management.png)
+## 👤 Account Access (Login & Register)
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/login.png)
+![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/signup.png)
 
 
 ---
