@@ -290,22 +290,22 @@ email-automation-ai/
 ![Dashboard](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/Dashboard.png)
 ## 📁 Leads Page
 ![Lead Management](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/leads-management.png)
-![Lead Management](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/lead-details-view.png)
+![Lead Details View](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/lead-details-view.png)
 ## 🧩 Prompts Management
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/prompt-management.png)
+![Prompt Management](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/prompt-management.png)
 ## 🎯 Campaigns Page
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-management.png)
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-control-page.png)
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-prompt-control-tab.png)
+![Campaign Management](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-management.png)
+![Campaign Control Page](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-control-page.png)
+![Campaign Control Tab](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/campaign-prompt-control-tab.png)
 ## 🤖 Agent Playground
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-test-page.png)
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-graph.png)
+![Agent Playground](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-test-page.png)
+![Agent Graph](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/agent-graph.png)
 
 ## 🔑 API Configuration
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/api-key-management.png)
+![API config page](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/api-key-management.png)
 ## 👤 Account Access (Login & Register)
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/login.png)
-![](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/signup.png)
+![Login](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/login.png)
+![sign up](https://github.com/abdullahal-baki/Full-Stack-AI-Lead-Automation-System/blob/main/images/signup.png)
 
 
 ---
